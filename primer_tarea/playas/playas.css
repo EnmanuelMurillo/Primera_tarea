@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body_playa{
+    background-image: url("../playas/img/playa2.jpg");
+    height:100%;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.playa_text{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+    justify-content: center;
+}
+
+
+.body_playa2{
+    background-image: url("./img/las-hojas-resort-club.jpg");
+    height:100%;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

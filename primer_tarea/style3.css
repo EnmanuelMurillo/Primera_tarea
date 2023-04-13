@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ima2{
+    background-image: url("./playas/img/paya1.jpg");
+    height:auto;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+
+.header_text2{
+    text-align:left;
+    color: rgb(44, 230, 20);
+    margin-top: 5rem;
+    margin-left: 15rem;
+    margin-bottom: 5rem;
+}
+
+
+
+.h2_2{
+    color: black;
+}
+
+.imagen1{
+    background-attachment: scroll;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    border-image:auto ;
+    border-style: groove;
+    animation: backwards;}

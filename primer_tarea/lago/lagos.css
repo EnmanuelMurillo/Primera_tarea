@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body_coatepeque{
+    background-image: url("../lago/img/lago-de-coatepeque-2.jpg");
+    height:auto;
+    width:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.body_ilopango{
+    background-image: url("../lago/img/ilopango1.jpg");
+    height:auto;
+    width:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

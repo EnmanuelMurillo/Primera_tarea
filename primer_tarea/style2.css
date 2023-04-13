@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head3{
+    text-align: center;
+    color: white;
+    margin-bottom:3rem;
+    margin-top: auto;
+}
+
+.h1_1{
+    text-align: center;
+    color: black;
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+}
+
+.img1{
+    background-image: url("./img/esa1.jpg");
+    height:auto;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.img3{
+    background-attachment: scroll;
+    margin-left: 38%;
+    border-image:auto ;
+    border-style: groove;
+    animation: backwards;
+}
+.img4{
+    background-attachment: scroll;
+    margin-left: 31%;
+    border-image:auto ;
+    border-style: groove;
+}
+.ima{
+    background-attachment: scroll;
+    margin-top: 5rem;
+    margin-left: 28rem;
+    border-style: groove;
+    animation: backwards;
+    display: flex;
+}
